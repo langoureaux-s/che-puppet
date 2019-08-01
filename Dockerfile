@@ -1,4 +1,4 @@
-FROM registry.centos.org/che-stacks/centos-stack-base:latest
+FROM centos:latest
 
 MAINTAINER Sebastien LANGOUREAUX <linuxworkgroup@hotmail.com>
 
